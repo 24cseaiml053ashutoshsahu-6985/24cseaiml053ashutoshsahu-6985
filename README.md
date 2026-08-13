@@ -11,8 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=24cseaiml053ashutoshsahu-6985&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=24cseaiml053ashutoshsahu-6985&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=24cseaiml053ashutoshsahu-6985&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
